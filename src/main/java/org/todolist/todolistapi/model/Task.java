@@ -1,4 +1,4 @@
-package org.todolist.model;
+package org.todolist.todolistapi.model;
 
 import jakarta.persistence.*;
 
